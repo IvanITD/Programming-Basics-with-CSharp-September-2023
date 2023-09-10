@@ -1,2 +1,5 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿double number = double.Parse(Console.ReadLine());
+
+double convert = number * 1.79549;
+
+Console.WriteLine(convert);

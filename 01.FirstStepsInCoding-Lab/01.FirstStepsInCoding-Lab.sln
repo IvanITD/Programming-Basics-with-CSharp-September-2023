@@ -19,6 +19,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07.ProjectsCreation", "07.P
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08.PetShop", "08.PetShop\08.PetShop.csproj", "{71CCAF97-A5C6-4425-9A59-AEFF657A6BFF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09.YardGreening", "09.YardGreening\09.YardGreening.csproj", "{8A5E7223-F017-4F09-BCD6-163728034316}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -57,6 +59,10 @@ Global
 		{71CCAF97-A5C6-4425-9A59-AEFF657A6BFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{71CCAF97-A5C6-4425-9A59-AEFF657A6BFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{71CCAF97-A5C6-4425-9A59-AEFF657A6BFF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A5E7223-F017-4F09-BCD6-163728034316}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A5E7223-F017-4F09-BCD6-163728034316}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A5E7223-F017-4F09-BCD6-163728034316}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A5E7223-F017-4F09-BCD6-163728034316}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

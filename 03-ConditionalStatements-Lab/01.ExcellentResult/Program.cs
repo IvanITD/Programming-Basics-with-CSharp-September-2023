@@ -1,2 +1,6 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿double grade = double.Parse(Console.ReadLine());
+
+if (grade >= 5.50 == grade <= 6)
+{
+    Console.WriteLine("Excellent!");
+}

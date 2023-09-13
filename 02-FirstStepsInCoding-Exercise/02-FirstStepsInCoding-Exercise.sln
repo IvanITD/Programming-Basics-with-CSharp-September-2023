@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.33414.496
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.USDtoBGN", "01.USDtoBGN\01.USDtoBGN.csproj", "{AB3D62F7-EA84-47EC-A6AD-79EAB7186613}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01.USDtoBGN", "01.USDtoBGN\01.USDtoBGN.csproj", "{AB3D62F7-EA84-47EC-A6AD-79EAB7186613}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.RadiansToDegrees", "02.RadiansToDegrees\02.RadiansToDegrees.csproj", "{226D56C8-18AC-422A-8B43-6252A70CAE2A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{AB3D62F7-EA84-47EC-A6AD-79EAB7186613}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AB3D62F7-EA84-47EC-A6AD-79EAB7186613}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AB3D62F7-EA84-47EC-A6AD-79EAB7186613}.Release|Any CPU.Build.0 = Release|Any CPU
+		{226D56C8-18AC-422A-8B43-6252A70CAE2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{226D56C8-18AC-422A-8B43-6252A70CAE2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{226D56C8-18AC-422A-8B43-6252A70CAE2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{226D56C8-18AC-422A-8B43-6252A70CAE2A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

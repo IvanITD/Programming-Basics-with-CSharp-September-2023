@@ -19,6 +19,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07.FoodDelivery", "07.FoodD
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08.BasketballEquipment", "08.BasketballEquipment\08.BasketballEquipment.csproj", "{687B6F1B-E8E3-4EB7-A8A5-B8C708C2DB25}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09.FishTank", "09.FishTank\09.FishTank.csproj", "{D2825165-9DC8-4CD0-ADFE-3FBCDFBA69CC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -57,6 +59,10 @@ Global
 		{687B6F1B-E8E3-4EB7-A8A5-B8C708C2DB25}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{687B6F1B-E8E3-4EB7-A8A5-B8C708C2DB25}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{687B6F1B-E8E3-4EB7-A8A5-B8C708C2DB25}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D2825165-9DC8-4CD0-ADFE-3FBCDFBA69CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2825165-9DC8-4CD0-ADFE-3FBCDFBA69CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2825165-9DC8-4CD0-ADFE-3FBCDFBA69CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2825165-9DC8-4CD0-ADFE-3FBCDFBA69CC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

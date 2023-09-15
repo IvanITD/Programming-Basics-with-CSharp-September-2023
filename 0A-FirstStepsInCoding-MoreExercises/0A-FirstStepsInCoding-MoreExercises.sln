@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.TriangleArea", "02.Trian
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.CelsiusToFahrenheit", "03.CelsiusToFahrenheit\03.CelsiusToFahrenheit.csproj", "{188F307A-5289-4168-BCB0-062110412188}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.VegetableMarket", "04.VegetableMarket\04.VegetableMarket.csproj", "{FB309401-A3C2-4298-ABA5-5EE3D9604515}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{188F307A-5289-4168-BCB0-062110412188}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{188F307A-5289-4168-BCB0-062110412188}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{188F307A-5289-4168-BCB0-062110412188}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB309401-A3C2-4298-ABA5-5EE3D9604515}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB309401-A3C2-4298-ABA5-5EE3D9604515}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB309401-A3C2-4298-ABA5-5EE3D9604515}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB309401-A3C2-4298-ABA5-5EE3D9604515}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

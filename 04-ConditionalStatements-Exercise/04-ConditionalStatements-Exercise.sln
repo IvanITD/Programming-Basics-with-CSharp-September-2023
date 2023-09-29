@@ -11,9 +11,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03.TimeAnd15Minutes", "03.T
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04.ToyShop", "04.ToyShop\04.ToyShop.csproj", "{3873CD83-5BC6-4485-8252-0D7D376E4DC7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.GodzillaVsKong", "05.GodzillaVsKong\05.GodzillaVsKong.csproj", "{917DF65D-445E-4891-AC16-03FBD1AD0B12}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05.GodzillaVsKong", "05.GodzillaVsKong\05.GodzillaVsKong.csproj", "{917DF65D-445E-4891-AC16-03FBD1AD0B12}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.WorldSwimmingRecord", "06.WorldSwimmingRecord\06.WorldSwimmingRecord.csproj", "{E3B5B401-6215-47FE-9C2D-E68798ECC27C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "06.WorldSwimmingRecord", "06.WorldSwimmingRecord\06.WorldSwimmingRecord.csproj", "{E3B5B401-6215-47FE-9C2D-E68798ECC27C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07.Shopping", "07.Shopping\07.Shopping.csproj", "{31AEF2F1-CD6D-4739-AA02-D31933E249EE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{E3B5B401-6215-47FE-9C2D-E68798ECC27C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E3B5B401-6215-47FE-9C2D-E68798ECC27C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E3B5B401-6215-47FE-9C2D-E68798ECC27C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{31AEF2F1-CD6D-4739-AA02-D31933E249EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31AEF2F1-CD6D-4739-AA02-D31933E249EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31AEF2F1-CD6D-4739-AA02-D31933E249EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31AEF2F1-CD6D-4739-AA02-D31933E249EE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

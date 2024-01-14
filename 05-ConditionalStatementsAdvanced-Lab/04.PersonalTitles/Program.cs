@@ -40,7 +40,8 @@ switch (sex)
                 Console.WriteLine("Master");
                 break;
         }
-        break;
+    break;
+
 
     case 'f':
         switch (age)
@@ -53,5 +54,5 @@ switch (sex)
                 Console.WriteLine("Miss");
                 break;
         }
-        break;
+    break;
 }

@@ -21,3 +21,24 @@ else if (typeOfProjection == "Discount")
     result = lineAmmount * columnsAmmount * discountPrice;
 }
 Console.WriteLine($"{result:F2} leva");
+
+//Here we resolved the task with the switch case statement
+
+switch (typeOfProjection)
+{
+    case "Premiere":
+        double premierePrice = 12.00;
+        result = lineAmmount * columnsAmmount * premierePrice;
+        break;
+
+    case "Normal":
+        double normalPrice = 7.50;
+        result = lineAmmount * columnsAmmount * normalPrice;
+        break;
+
+    case "Discount":
+        double discountPrice = 5.00;
+        result = lineAmmount * columnsAmmount * discountPrice;
+        break;
+}
+Console.WriteLine($"{result:F2} leva");

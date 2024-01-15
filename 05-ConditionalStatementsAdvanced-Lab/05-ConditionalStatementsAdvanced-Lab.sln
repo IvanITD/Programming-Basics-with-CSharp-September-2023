@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.NumberInRange", "06.Numb
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07.WorkingHours", "07.WorkingHours\07.WorkingHours.csproj", "{79C512AA-4C45-437D-9890-C0B3DF719CCC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08.CinemaTicket", "08.CinemaTicket\08.CinemaTicket.csproj", "{6E8D880B-F8B1-4286-92DF-8DBD1BAAEE12}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{79C512AA-4C45-437D-9890-C0B3DF719CCC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{79C512AA-4C45-437D-9890-C0B3DF719CCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{79C512AA-4C45-437D-9890-C0B3DF719CCC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E8D880B-F8B1-4286-92DF-8DBD1BAAEE12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E8D880B-F8B1-4286-92DF-8DBD1BAAEE12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E8D880B-F8B1-4286-92DF-8DBD1BAAEE12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E8D880B-F8B1-4286-92DF-8DBD1BAAEE12}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

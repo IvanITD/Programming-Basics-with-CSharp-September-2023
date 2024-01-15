@@ -2,6 +2,8 @@
 string dayOfWeek = Console.ReadLine();
 double quantity = double.Parse(Console.ReadLine());
 
+/* A small mistake to the name of the source code!
+ * The name of this task is 11.FruitShop and NOT "12. Trade Commissions"
 
 // Here we solve the task with the if else statement
 if (dayOfWeek == "Monday" || dayOfWeek == "Tuesday" || dayOfWeek == "Wednesday" || dayOfWeek == "Thrusday" || dayOfWeek == "Friday")
